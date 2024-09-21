@@ -1,4 +1,7 @@
 # OpenWRT-CI
+
+自用6年IPLC机场： https://j1.bnaffloop.com/#/register?code=GqVAUNgM
+
 云编译OpenWRT固件
 
 官方版：
